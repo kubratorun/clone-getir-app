@@ -28,5 +28,6 @@ Remove any commented-out code that is not needed. It helps to keep your codebase
 
 # Screenn gif
 
-![ezgif com-crop (2)](https://github.com/zafer414108/ReactNative-GetirCloneApp/assets/147662873/66f4c5af-927e-401d-9172-94bbd3b8c654)
+![getir-clone-gif](https://github.com/kubratorun/clone-getir-app/assets/55465014/1cf4c80a-8945-4199-929a-584259413e42)
+
 
